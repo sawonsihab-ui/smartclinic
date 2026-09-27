@@ -1,0 +1,1 @@
+import{j as a}from"./index-QDWDjjrO.js";const o=({status:e})=>{if(!e)return null;const r=e.toLowerCase();return a.jsx("span",{className:`badge badge-${r}`,children:e.replace(/_/g," ")})};export{o as S};
